@@ -1,4 +1,5 @@
 # C W Sham
+![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
 ## 通告
 /
