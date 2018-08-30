@@ -7,15 +7,11 @@
 
 Dear all,
 
-1. 請列印此電郵給講義同事。
-2. S4 Force & Motion IA 請見 S4 1.1-4.2。<br>
-S4 Force & Motion IB 請見 S4 4.3-6.4。<br>
-S4 Wave 請見 S4 7.1-10.4。<br>
-S5 Force & Motion II 請見 S5 1.1-2.4。<br>
-S5 Heat & Gases II 請見 S5 3.1-3.4。<br>
-S5 E&M I 請見 S5 4.1-7.2。<br>
-S5 E&M II 請見 S5 7.3-10.4。<br>
-3. 若章程與進度表不同，以進度表為準。
+1. 新增網址 <br>
+chunhon.github.io <br>
+更新進度表。方便以手機查閱。<br>
+現階段會保留電郵通知進度。<br>
+2. 若章程與進度表不同，以進度表為準。
 
 Thx,<br>
 Hon :)
