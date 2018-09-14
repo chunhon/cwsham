@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**7/9/2018**
+**15/9/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -24,19 +24,19 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-1.2 Position and Movement 
+1.3 Position and Movement 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-1.2 Projectile Motion
+1.3 Projectile Motion
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-1.2 Transfer Processes (Rev), Change of State (Rev)
+1.3 Change of State (Rev), General Gas Law (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-1.2 Photoelectric effect
+1.3 Photoelectric effect
 
 ***
 
@@ -49,6 +49,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |||
 |:-|:-|
 |1.1|Position and Movement 1-15|
+|1.2|16-25|
 
 
 ## S5 
@@ -58,6 +59,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |||
 |:-|:-|
 |1.1|Projectile Motion 1-12|
+|1.2|13-21|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -66,6 +68,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |||
 |:-|:-|
 |1.1|Temperature Heat and Internal Energy (Rev) 1-31|
+|1.2|Transfer Processes (Rev) 1-16, Change of State (Rev) 1-11|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -74,6 +77,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |||
 |:-|:-|
 |1.1|Rutherford’s atomic model 1-11|
+|1.2|Photoelectric effect 1-11|
 
 ***
 
