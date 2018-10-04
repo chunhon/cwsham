@@ -52,6 +52,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |1.2|16-25|
 |1.3|26-37|
 |1.4|38-48|
+|2.1|49-60|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -63,6 +64,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |1.2|13-21|
 |1.3|22-34|
 |1.4|Circular Motion 1-10|
+|2.1|11-20|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -74,6 +76,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |1.2|Transfer Processes (Rev) 1-16, Change of State (Rev) 1-11|
 |1.3|12-34, General Gas Law (Rev) 1-8|
 |1.4|9-27, Kinetic Theory (Rev) 1-17, Heat and Gases Rev Test, DSE Mock 2012|
+|2.1|Position and Movement (Rev) 1-33|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -85,6 +88,7 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 |1.2|Photoelectric effect 1-11|
 |1.3|12-22|
 |1.4|Bohr’s atomic model of hydrogen 1-10|
+|2.1|11-20|
 
 ***
 
