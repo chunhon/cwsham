@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**29/9/2018**
+**6/10/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -24,19 +24,19 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-2.1 Position and Movement 
+2.2 Position and Movement, Newton's Laws
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-2.1 Circular Motion
+2.2 Circular Motion
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-2.1 Position and Movement (Rev)
+2.2 Position and Movement (Rev), Newton's Laws (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-2.1 Bohr's atomic model of hydrogen
+2.2 Bohr's atomic model of hydrogen, Particles or Waves
 
 ***
 
