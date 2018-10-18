@@ -139,7 +139,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2018|
 
 ## S6 Astronomy
-**(2018 色膠裝)** <br>
+**(2018 青色膠裝)** <br>
 **(綠色影印本)**
 
 > S6 Section E,E1,E2,E3 2.3-4.2 <br>
@@ -155,5 +155,6 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|Stars and the Universe 1-12|
 |2.3|13-24|
 |2.4|25-38, Astronomy Rev Test|
+
 ***
 
