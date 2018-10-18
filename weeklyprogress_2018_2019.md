@@ -9,7 +9,7 @@
 1. S4/5 Special Course 1.1-2.4 <br>
 請見 2018 Summer S4-6 Heat & Gases I。<br>
 S6 Section E,E1,E2,E3 1.1-2.2 <br>
-請見 S5/6 Radioactivity。
+請見 S5/6 Radioactivity。 <br>
 S6 Section E,E1,E2,E3 2.3-4.2 <br>
 請見 S6 Astronomy。
 2. 若章程與進度表不同，以進度表為準。
@@ -138,5 +138,11 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.1|10-24|
 |2.2|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2018|
 
+## S6 Astronomy
+**(2018 深藍色膠裝)** <br>
+**(綠色影印本)**
+
+> S6 Section E,E1,E2,E3 1.1-2.2 <br>
+> 請見 S5/6 Radioactivity。
 ***
 
