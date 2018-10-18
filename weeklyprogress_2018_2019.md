@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**13/10/2018**
+**20/10/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -10,6 +10,8 @@
 請見 2018 Summer S4-6 Heat & Gases I。<br>
 S6 Section E,E1,E2,E3 1.1-2.2 <br>
 請見 S5/6 Radioactivity。
+S6 Section E,E1,E2,E3 2.3-4.2 <br>
+請見 S6 Astronomy。
 2. 若章程與進度表不同，以進度表為準。
 
 網址 <br>
@@ -24,19 +26,19 @@ S6 Section E,E1,E2,E3 1.1-2.2 <br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-2.3 Newton's Laws
+2.4 Newton's Laws
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-2.3 Gravitation
+2.4 Gravitation, Force & Motion Rev Test, DSE Mock 2015
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-2.3 Newton's Laws (Rev)
+2.4 Newton's Laws (Rev), Moment of Force (Rev), DSE Mock 2013
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-2.3 Particles or Waves, Probing into nano scale
+2.4 Probing into nano scale, Atomic World Rev Test
 
 ***
 
