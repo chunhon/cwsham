@@ -56,6 +56,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |1.4|38-48|
 |2.1|49-60|
 |2.2|61-67, Newton’s Laws 1-6|
+|2.3|7-22|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -69,6 +70,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |1.4|Circular Motion 1-10|
 |2.1|11-20|
 |2.2|21-33|
+|2.3|Gravitation 1-12|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -82,6 +84,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |1.4|9-27, Kinetic Theory (Rev) 1-17, Heat and Gases Rev Test, DSE Mock 2012|
 |2.1|Position and Movement (Rev) 1-33|
 |2.2|34-42, Newton’s Laws (Rev) 1-19|
+|2.3|20-48|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -95,6 +98,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |1.4|Bohr’s atomic model of hydrogen 1-10|
 |2.1|11-20|
 |2.2|21-26, Particles or Waves 1-6|
+|2.3|7-12, Probing into nano scales 1-8|
 
 ***
 
