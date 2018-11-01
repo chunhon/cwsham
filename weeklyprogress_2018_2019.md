@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**27/10/2018**
+**3/11/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -28,19 +28,19 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-3.1 Newton's Laws
+3.2 Newton's Laws
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-3.1 General Gas Law
+3.2 General Gas Law
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-3.1 Work, Energy and Power (Rev)
+3.2 Momentum (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-3.1 Electricity at home
+3.2 Electricity at home
 
 ***
 
