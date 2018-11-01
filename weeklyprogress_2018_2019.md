@@ -161,8 +161,12 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.4|25-38, Astronomy Rev Test|
 
 ## 2017-2018 進度表
+## S4 Wave Motion
 **(2017 藍色膠裝)** <br>
-**S4 Wave Motion (紫色影印本)** <br>
+**(紫色影印本)** <br>
+
+> S4/5 Special Course 3.1-6.4 <br>
+> 請見 2017-2018 S4 Wave Motion。 <br>
 
 |||
 |:-|:-|
