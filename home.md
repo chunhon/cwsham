@@ -10,7 +10,7 @@
 ## 進度表
 |||
 |:-|:-|
-|27-10-2018|C W Sham 2018-2019 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_2019.md)|
+|3-11-2018|C W Sham 2018-2019 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_2019.md)|
 |1-9-2018|C W Sham 2018 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_summer.md)|
 
 ***
