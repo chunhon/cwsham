@@ -160,5 +160,24 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|13-24|
 |2.4|25-38, Astronomy Rev Test|
 
+2017-2018 進度表
+(2017 藍色膠裝)
+S4 Wave Motion (紫色影印本)
+7.1 Wave Propagation 1-13
+7.2 14-22
+7.3 23-26, Wave Phenomena 1-10
+7.4 11-24
+8.1 25-36
+8.2 37-50
+8.3 Reflection and Refraction of Light 1-12
+8.4 13-25
+9.1 26-38
+9.2 39-41, Lenses 1-13
+9.3 14-29
+9.4 30-43
+10.1 Wave Nature of Light 1-18
+10.2 19-32
+10.3 33-36, Sound 1-13
+10.4 14-29, Wave Motion Rev Test
 ***
 
