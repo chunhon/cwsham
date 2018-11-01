@@ -92,6 +92,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|34-42, Newton’s Laws (Rev) 1-19|
 |2.3|20-48|
 |2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2013|
+|3.1|Work, Energy and Power (Rev) 1-38|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -107,6 +108,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|21-26, Particles or Waves 1-6|
 |2.3|7-12, Probing into nano scales 1-8|
 |2.4|10-27, Atomic World Rev Test|
+|3.1|Electricity at home 1-11|
 
 ***
 
