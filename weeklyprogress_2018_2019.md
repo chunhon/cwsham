@@ -60,6 +60,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|61-67, Newton’s Laws 1-6|
 |2.3|7-22|
 |2.4|23-33|
+|3.1|34-44|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -75,6 +76,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.2|21-33|
 |2.3|Gravitation 1-12|
 |2.4|13-23, Force & Motion Rev Test, DSE Mock 2015|
+|3.1|General Gas Law 1-17|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
