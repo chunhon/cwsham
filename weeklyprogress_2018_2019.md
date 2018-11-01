@@ -8,6 +8,8 @@
 
 1. S4/5 Special Course 1.1-2.4 <br>
 請見 2018 Summer S4-6 Heat & Gases I。<br>
+S4/5 Special Course 3.1-6.4 <br>
+請見 2017-2018 S4 Wave Motion。 <br>
 S6 Section E,E1,E2,E3 1.1-2.2 <br>
 請見 S5/6 Radioactivity。 <br>
 S6 Section E,E1,E2,E3 2.3-4.2 <br>
@@ -160,6 +162,8 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|13-24|
 |2.4|25-38, Astronomy Rev Test|
 
+***
+
 ## 2017-2018 進度表
 ## S4 Wave Motion
 **(2017 藍色膠裝)** <br>
@@ -186,5 +190,6 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |10.2|19-32|
 |10.3|33-36, Sound 1-13|
 |10.4|14-29, Wave Motion Rev Test|
+
 ***
 
