@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**3/11/2018**
+**10/11/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -28,19 +28,19 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-3.2 Newton's Laws
+3.3 Newton's Laws
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-3.2 General Gas Law
+3.3 Kinetic Theory
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-3.2 Momentum (Rev)
+3.3 Projectile Motion (Rev), Circular Motion (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-3.2 Electricity at home
+3.3 Electricity at home
 
 ***
 
@@ -61,6 +61,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|7-22|
 |2.4|23-33|
 |3.1|34-44|
+|3.2|45-54|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -77,6 +78,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|Gravitation 1-12|
 |2.4|13-23, Force & Motion Rev Test, DSE Mock 2015|
 |3.1|General Gas Law 1-17|
+|3.2|18-31|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -93,6 +95,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|20-48|
 |2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2013|
 |3.1|Work, Energy and Power (Rev) 1-38|
+|3.2|Momentum (Rev) 1-36|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -109,6 +112,7 @@ S6 Section E,E1,E2,E3 2.3-4.2 <br>
 |2.3|7-12, Probing into nano scales 1-8|
 |2.4|10-27, Atomic World Rev Test|
 |3.1|Electricity at home 1-11|
+|3.2|12-21|
 
 ***
 
