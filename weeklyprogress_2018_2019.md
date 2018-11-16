@@ -93,6 +93,7 @@ S5 和 S6 為同一本書。<br>
 |2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2013|
 |3.1|Work, Energy and Power (Rev) 1-38|
 |3.2|Momentum (Rev) 1-36|
+|3.3|Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-6|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
