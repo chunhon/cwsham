@@ -31,11 +31,11 @@ S5 和 S6 為同一本書。<br>
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-3.3 Projectile Motion (Rev), Circular Motion (Rev)
+3.4 Circular Motion (Rev), Gravitation (Rev), Force and Motion Rev Test, DSE Mock 2014
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-3.3 Electricity at home
+3.4 Electricity at home, Energy efficiency in building
 
 ***
 
