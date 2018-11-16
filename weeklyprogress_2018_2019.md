@@ -23,11 +23,11 @@ S5 和 S6 為同一本書。<br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-3.3 Newton's Laws
+3.4 Newton's Laws
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-3.3 Kinetic Theory
+3.4 Kinetic Theory, Heat and Gases Rev Test, DSE Mock 2016
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
