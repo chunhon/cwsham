@@ -111,6 +111,7 @@ S5 和 S6 為同一本書。<br>
 |2.4|10-27, Atomic World Rev Test|
 |3.1|Electricity at home 1-11|
 |3.2|12-21|
+|3.3|22-31|
 
 ***
 
