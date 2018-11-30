@@ -96,6 +96,7 @@
 |3.2|Momentum (Rev) 1-36|
 |3.3|Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-6|
 |3.4|7-20, Gravitation (Rev) 1-17, Force and Motion Rev Test, DSE Mock 2014|
+|4.1|Electrostatics (Rev) 1-26|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -115,6 +116,7 @@
 |3.2|12-21|
 |3.3|22-31|
 |3.4|32-36, Energy efficiency in building 1-8|
+|4.1|9-15, Energy efficiency in transportation 1-6|
 
 ***
 
