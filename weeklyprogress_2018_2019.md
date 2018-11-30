@@ -1,15 +1,12 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**24/11/2018**
+**1/12/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-1. Heat and Gases Rev Test，<br>
-Force and Motion Rev Test，<br>
-S5 和 S6 為同一本書。<br>
-2. 若章程與進度表不同，以進度表為準。
+若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -23,19 +20,19 @@ S5 和 S6 為同一本書。<br>
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-4.1 Newton’s Laws, Moment of Force
+4.2 Moment of Force
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-4.1 Electrostatics
+4.2 Electrostatics
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-4.1 Electrostatics (Rev)
+4.2 Electrostatics (Rev), Electric Circuits (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-4.1 Energy efficiency in building, Energy efficiency in transportation 
+4.2 Energy efficiency in transportation, Non renewable energy source
 
 ***
 
