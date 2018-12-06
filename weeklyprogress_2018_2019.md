@@ -57,6 +57,7 @@
 |3.3|55-66|
 |3.4|67-77|
 |4.1|78-80, Moment of Force 1-7|
+|4.2|8-17|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -77,6 +78,7 @@
 |3.3|Kinetic Theory 1-10|
 |3.4|11-24, Heat and Gases Rev Test, DSE Mock 2016|
 |4.1|Electrostatics 1-15|
+|4.2|16-32|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
