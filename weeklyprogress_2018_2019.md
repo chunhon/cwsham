@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**1/12/2018**
+**8/12/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -20,19 +20,19 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-4.2 Moment of Force
+4.3 Work Energy and Power
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-4.2 Electrostatics
+4.3 Electrostatics
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-4.2 Electrostatics (Rev), Electric Circuits (Rev)
+4.3 Electric Circuits (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-4.2 Energy efficiency in transportation, Non renewable energy source
+4.3 Non renewable energy sources, Renewable energy sources
 
 ***
 
