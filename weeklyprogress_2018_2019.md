@@ -1,12 +1,14 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**8/12/2018**
+**15/12/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-若章程與進度表不同，以進度表為準。<br>
+- 中六 DSE Mock 2015 與 中五 相同。<br>
+- S6 Special Course Atomic World 進度請見 S6 Elective 1.1-2.4。
+- 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
