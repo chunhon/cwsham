@@ -110,9 +110,6 @@
 **(2018 青色膠裝)** <br>
 **(綠色影印本)**
 
-> S6 Special Course Atomic World 
-> 請見 S6 Elective 1.1-2.4
-
 |||
 |:-|:-|
 |1.1|Rutherford’s atomic model 1-11|
