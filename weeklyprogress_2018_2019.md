@@ -60,6 +60,7 @@
 |3.4|67-77|
 |4.1|78-80, Moment of Force 1-7|
 |4.2|8-17|
+|4.3|Work Energy and Power 1-14|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -81,6 +82,7 @@
 |3.4|11-24, Heat and Gases Rev Test, DSE Mock 2016|
 |4.1|Electrostatics 1-15|
 |4.2|16-32|
+|4.3|33-42|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -102,6 +104,7 @@
 |3.4|7-20, Gravitation (Rev) 1-17, Force and Motion Rev Test, DSE Mock 2014|
 |4.1|Electrostatics (Rev) 1-26|
 |4.2|27-40, Electric Circuits (Rev) 1-9|
+|4.3|10-31|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -123,6 +126,7 @@
 |3.4|32-36, Energy efficiency in building 1-8|
 |4.1|9-15, Energy efficiency in transportation 1-6|
 |4.2|7-18, Non renewable energy sources 1-11|
+|4.3|12-22, Renewable energy sources 1-6|
 
 ***
 
