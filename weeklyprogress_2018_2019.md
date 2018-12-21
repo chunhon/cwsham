@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**15/12/2018**
+**22/12/2018**
 > 逢星期五或六晚出
 
 **Dear all,**
