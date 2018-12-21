@@ -84,7 +84,7 @@
 |4.1|Electrostatics 1-15|
 |4.2|16-32|
 |4.3|33-42|
-|4.4|43-51|
+|4.4|43-52|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -107,6 +107,7 @@
 |4.1|Electrostatics (Rev) 1-26|
 |4.2|27-40, Electric Circuits (Rev) 1-9|
 |4.3|10-31|
+|4.4|32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -129,6 +130,7 @@
 |4.1|9-15, Energy efficiency in transportation 1-6|
 |4.2|7-18, Non renewable energy sources 1-11|
 |4.3|12-22, Renewable energy sources 1-6|
+|4.4|7-24, Energy & Use of Energy Rev Test|
 
 ***
 
