@@ -8,6 +8,11 @@
 
 - 中六 DSE Mock 2015 與 中五 相同。<br>
 - S6 Special Course Atomic World 進度請見 S6 Elective 1.1-2.4。
+- 地獄班 <br>
+S6 Heat and Gases Rev 進度請見 S6 Revision 1.1-1.4。<br>
+S6 Force and Motion Rev 進度請見 S6 Revision 2.1-3.4。<br>
+S6 Astronomy 進度請見 2018 Summer S6 Astronomy。<br>
+S6 Atomic World 進度請見 S6 Elective 1.1-2.4。
 - 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
