@@ -27,19 +27,19 @@ S6 Atomic World 進度請見 S6 Elective 1.1-2.4。
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-5.1 Work Energy and Power
+5.2 Work Energy and Power
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-5.1 Electric Circuits
+5.2 Electric Circuits
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-5.1 Domestic Electricity (Rev), Magnetic Field (Rev)
+5.2 Magnetic Field (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-5.1 Making sense of the eye
+5.2 Making sense of the eye, Making sense of the ear
 
 ***
 
