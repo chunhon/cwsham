@@ -6,14 +6,7 @@
 
 **Dear all,**
 
-- 中六 DSE Mock 2015 與 中五 相同。<br>
-- S6 Special Course Atomic World 進度請見 S6 Elective 1.1-2.4。
-- 地獄班 <br>
-S6 Heat and Gases Rev 進度請見 S6 Revision 1.1-1.4。<br>
-S6 Force and Motion Rev 進度請見 S6 Revision 2.1-3.4。<br>
-S6 Astronomy 進度請見 2018 Summer S6 Astronomy。<br>
-S6 Atomic World 進度請見 S6 Elective 1.1-2.4。
-- 若章程與進度表不同，以進度表為準。<br>
+若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -27,19 +20,19 @@ S6 Atomic World 進度請見 S6 Elective 1.1-2.4。
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-5.2 Work Energy and Power
+5.3 Work Energy and Power
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-5.2 Electric Circuits
+5.3 Electric Circuits
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-5.2 Magnetic Field (Rev)
+5.3 Magnetic Field (Rev), Electromagnetic Induction (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-5.2 Making sense of the eye, Making sense of the ear
+5.3 Making sense of the ear
 
 ***
 
