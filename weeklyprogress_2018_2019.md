@@ -6,7 +6,8 @@
 
 **Dear all,**
 
-若章程與進度表不同，以進度表為準。<br>
+-  中六 DSE Mock 2016 與中五相同。<br>
+- 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -20,19 +21,19 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-5.3 Work Energy and Power
+5.4 Momentum
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-5.3 Electric Circuits
+5.4 Electric Circuits
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-5.3 Magnetic Field (Rev), Electromagnetic Induction (Rev)
+5.4 Electromagnetic Induction (Rev), Alternating Current (Rev), E&M Rev Test, DSE Mock 2016
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-5.3 Making sense of the ear
+5.4 Medical imaging using non-ionizing radiation 
 
 ***
 
