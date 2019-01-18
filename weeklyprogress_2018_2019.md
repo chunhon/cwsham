@@ -21,19 +21,19 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-5.4 Momentum
+6.1 Momentum
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-5.4 Electric Circuits
+6.1 Electric Circuits
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-5.4 Electromagnetic Induction (Rev), Alternating Current (Rev), E&M Rev Test, DSE Mock 2016
+6.1 Wave Propagation (Rev), Wave Phenomena (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-5.4 Medical imaging using non-ionizing radiation 
+6.1 Medical imaging using non-ionizing radiation 
 
 ***
 
@@ -64,6 +64,7 @@
 |5.1|24-33|
 |5.2|34-44|
 |5.3|45-56|
+|5.4|Momentum 1-10|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
