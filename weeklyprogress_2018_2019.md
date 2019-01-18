@@ -118,6 +118,7 @@
 |5.1|8-26, Magnetic Field (Rev) 1-7|
 |5.2|8-31|
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
+|5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -144,6 +145,7 @@
 |5.1|Making sense of the eye 1-12|
 |5.2|13-22, Making sense of the ear 1-2(half)|
 |5.3|2-14|
+|5.4|Medical imaging using non-ionizing radiation 1-14|
 
 ***
 
