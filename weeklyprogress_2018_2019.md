@@ -1,12 +1,12 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**12/1/2019**
+**19/1/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
--  中六 DSE Mock 2016 與中五相同。<br>
+- 中六 DSE Mock 2016 與中五相同。<br>
 - 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
