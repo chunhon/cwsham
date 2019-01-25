@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**19/1/2019**
+**26/1/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -21,19 +21,19 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-6.1 Momentum
+6.2 Momentum
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-6.1 Electric Circuits
+6.2 Electric Circuits
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-6.1 Wave Propagation (Rev), Wave Phenomena (Rev)
+6.2 Wave Phenomena (Rev)
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-6.1 Medical imaging using non-ionizing radiation 
+6.2 Medical imaging using non-ionizing radiation, Medical imaging using ionizing radiation 
 
 ***
 
@@ -65,6 +65,7 @@
 |5.2|34-44|
 |5.3|45-56|
 |5.4|Momentum 1-10|
+|6.1|11-20|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -92,6 +93,7 @@
 |5.2|12-21|
 |5.3|22-33|
 |5.4|34-43|
+|6.1|44-54|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -119,6 +121,7 @@
 |5.2|8-31|
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
+|6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -146,6 +149,7 @@
 |5.2|13-22, Making sense of the ear 1-2(half)|
 |5.3|2-14|
 |5.4|Medical imaging using non-ionizing radiation 1-14|
+|6.1|15-25|
 
 ***
 
