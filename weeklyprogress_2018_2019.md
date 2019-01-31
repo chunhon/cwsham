@@ -123,6 +123,7 @@
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 |6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
+|6.2|7-22|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
