@@ -123,7 +123,7 @@
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 |6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
-|6.2|7-22|
+|6.2|7-32|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -152,6 +152,7 @@
 |5.3|2-14|
 |5.4|Medical imaging using non-ionizing radiation 1-14|
 |6.1|15-25|
+|6.2|26-30, Medical imaging using ionizing radiation 1-8|
 
 ***
 
