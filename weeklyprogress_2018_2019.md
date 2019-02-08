@@ -1,12 +1,21 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**2/2/2019**
+**9/2/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-若章程與進度表不同，以進度表為準。<br>
+- 突圍班 <br>
+S6 Heat & Gases Rev 請見 S6 Rev 1.1-1.4。 <br>
+S6 Force & Motion Rev 請見 S6 Rev 2.1-3.4。 <br>
+S6 E&M Rev 請見 S6 4.1-5.4。 <br>
+S6 Astronomy 請見 2018 Summer S6 Astronomy。 <br>
+S6 Atomic World 請見 S6 Elective 1.1-2.4。 <br>
+S6 Energy & Use of Energy 請見 S6 Elective 3.1-4.4。 
+- S6 Special Course: S6 Energy & Use of Energy <br>
+請見 S6 Elective 3.1-4.4。
+- 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -20,19 +29,19 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-6.3 Momentum
+6.4 Momentum
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-6.3 Electric Circuits
+6.4 Domestic Electricity 
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-6.3 Wave Phenomena (Rev), Reflection and Refraction of Light (Rev)
+6.4 Reflection and Refraction of Light (Rev), Lenses (Rev), DSE Mock 2017
 
 **S6 Elective (2018 青色膠裝)** <br>
 **(綠色影印本)** <br>
-6.3 Medical imaging using ionizing radiation 
+6.4 Medical imaging using ionizing radiation, Medical Physics Rev Test
 
 ***
 
@@ -66,6 +75,7 @@
 |5.4|Momentum 1-10|
 |6.1|11-20|
 |6.2|21-30|
+|6.3|31-39|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -95,6 +105,7 @@
 |5.4|34-43|
 |6.1|44-54|
 |6.2|55-67|
+|6.3|68-79|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -124,6 +135,7 @@
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 |6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
 |6.2|7-32|
+|6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
@@ -153,6 +165,7 @@
 |5.4|Medical imaging using non-ionizing radiation 1-14|
 |6.1|15-25|
 |6.2|26-30, Medical imaging using ionizing radiation 1-8|
+|6.3|9-21|
 
 ***
 
