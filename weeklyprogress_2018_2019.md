@@ -6,13 +6,7 @@
 
 **Dear all,**
 
-- 突圍班 <br>
-S6 Heat & Gases Rev 請見 S6 Rev 1.1-1.4。 <br>
-S6 Force & Motion Rev 請見 S6 Rev 2.1-3.4。 <br>
-S6 E&M Rev 請見 S6 4.1-5.4。 <br>
-S6 Astronomy 請見 2018 Summer S6 Astronomy。 <br>
-S6 Atomic World 請見 S6 Elective 1.1-2.4。 <br>
-S6 Energy & Use of Energy 請見 S6 Elective 3.1-4.4。 
+-  
 - S6 Special Course: S6 Energy & Use of Energy <br>
 請見 S6 Elective 3.1-4.4。
 - 若章程與進度表不同，以進度表為準。<br>
