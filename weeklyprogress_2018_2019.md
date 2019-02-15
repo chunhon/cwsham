@@ -31,11 +31,8 @@
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-6.4 Reflection and Refraction of Light (Rev), Lenses (Rev), DSE Mock 2017
-
-**S6 Elective (2018 青色膠裝)** <br>
-**(綠色影印本)** <br>
-6.4 Medical imaging using ionizing radiation, Medical Physics Rev Test
+7.1 Lenses (Rev), Wave Nature of Light (Rev)
+7.2 Wave Nature of Light (Rev), Sound (Rev), Wave Motion Rev Test
 
 ***
 
