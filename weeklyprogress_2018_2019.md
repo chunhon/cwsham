@@ -129,6 +129,7 @@
 |6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
 |6.2|7-32|
 |6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
+|6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2017|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
