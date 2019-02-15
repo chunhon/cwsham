@@ -23,11 +23,11 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-6.4 Momentum
+7.1 Wave Propagation 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-6.4 Domestic Electricity 
+7.1 Domestic Electricity 
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
