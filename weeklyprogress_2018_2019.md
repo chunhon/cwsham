@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**9/2/2019**
+**16/2/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -160,6 +160,7 @@
 |6.1|15-25|
 |6.2|26-30, Medical imaging using ionizing radiation 1-8|
 |6.3|9-21|
+|6.4|22-33, Medical Physics Rev Test|
 
 ***
 
