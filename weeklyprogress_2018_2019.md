@@ -6,7 +6,7 @@
 
 **Dear all,**
 
--  
+- 中六各班進度不同。請按各自進度跟進。<br>
 - S6 Special Course: S6 Energy & Use of Energy <br>
 請見 S6 Elective 3.1-4.4。
 - 若章程與進度表不同，以進度表為準。<br>
