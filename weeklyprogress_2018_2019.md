@@ -31,7 +31,7 @@
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-7.1 Lenses (Rev), Wave Nature of Light (Rev)
+7.1 Lenses (Rev), Wave Nature of Light (Rev) <br>
 7.2 Wave Nature of Light (Rev), Sound (Rev), Wave Motion Rev Test
 
 ***
