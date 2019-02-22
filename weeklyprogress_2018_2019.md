@@ -1,14 +1,12 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**16/2/2019**
+**23/2/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
 - 中六各班進度不同。請按各自進度跟進。<br>
-- S6 Special Course: S6 Energy & Use of Energy <br>
-請見 S6 Elective 3.1-4.4。
 - 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
@@ -23,16 +21,16 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-7.1 Wave Propagation 
+7.2 Wave Propagation 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-7.1 Domestic Electricity 
+7.2 Domestic Electricity, DSE Mock 2017  
 
 **S6 Revision (2018 淺藍色膠裝)** <br>
 **(綠色影印本)** <br>
-7.1 Lenses (Rev), Wave Nature of Light (Rev) <br>
-7.2 Wave Nature of Light (Rev), Sound (Rev), Wave Motion Rev Test
+7.3 Radiation and Radioactivity (Rev)  
+7.4 Atomic Model (Rev), Nuclear Energy (Rev), DSE Mock 2018   
 
 ***
 
@@ -68,6 +66,7 @@
 |6.2|21-30|
 |6.3|31-39|
 |6.4|40-51|
+|7.1|Wave Propagation 1-13|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -99,6 +98,7 @@
 |6.2|55-67|
 |6.3|68-79|
 |6.4|Domestic Electricity 1-10|
+|7.1|11-21|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
@@ -130,6 +130,8 @@
 |6.2|7-32|
 |6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
 |6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2017|
+|7.1|19-36, Wave Nature of Light (Rev) 1-19|
+|7.2|20-31, Sound (Rev) 1-24, Wave Motion Rev Test|
 
 ## S6 Elective 
 **(2018 青色膠裝)** <br>
