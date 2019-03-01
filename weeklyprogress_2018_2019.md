@@ -21,16 +21,11 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-7.2 Wave Propagation 
+7.3 Wave Propagation, Wave Phenomena 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-7.2 Domestic Electricity, DSE Mock 2017  
-
-**S6 Revision (2018 淺藍色膠裝)** <br>
-**(綠色影印本)** <br>
-7.3 Radiation and Radioactivity (Rev)  
-7.4 Atomic Model (Rev), Nuclear Energy (Rev), DSE Mock 2018   
+7.3 Magnetic Field  
 
 ***
 
