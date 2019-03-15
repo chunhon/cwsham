@@ -6,7 +6,7 @@
 
 **Dear all,**
 
-- 若章程與進度表不同，以進度表為準。<br>
+若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
