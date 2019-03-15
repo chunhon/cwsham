@@ -1,12 +1,11 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**9/3/2019**
+**16/3/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-- 中六各班進度不同。請按各自進度跟進。<br>
 - 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
@@ -21,11 +20,11 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-7.4 Wave Phenomena 
+8.1 Wave Phenomena 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-7.4 Magnetic Field  
+8.1 Magnetic Field  
 
 ***
 
@@ -64,6 +63,7 @@
 |7.1|Wave Propagation 1-13|
 |7.2|14-22|
 |7.3|23-26, Wave Phenomena 1-10|
+|7.4|11-24|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -98,6 +98,7 @@
 |7.1|11-21|
 |7.2|23-34, DSE Mock 2017|
 |7.3|Magnetic Field 1-13|
+|7.4|14-26|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
