@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**6/4/2019**
+**13/4/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -20,11 +20,11 @@
 
 **S4 (2018 深藍色膠裝)** <br>
 **(粉紅色影印本)** <br>
-8.4 Reflection and Refraction of Light 
+9.1 Reflection and Refraction of Light 
 
 **S5 (2018 深藍色膠裝)** <br>
 **(紫色影印本)** <br>
-8.4 Magnetic Field  
+9.1 Electromagnetic Induction  
 
 ***
 
@@ -67,6 +67,7 @@
 |8.1|25-36|
 |8.2|37-50|
 |8.3|Reflection and Refraction of Light 1-12|
+|8.4|13-25|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -105,6 +106,7 @@
 |8.1|27-37|
 |8.2|38-47|
 |8.3|48-54(half)|
+|8.4|54-63|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
