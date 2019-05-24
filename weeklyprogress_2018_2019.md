@@ -1,7 +1,7 @@
 # C W Sham 2018-2019 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**18/5/2019**
+**25/5/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -13,20 +13,6 @@
 
 **Thx,** <br>
 **Hon :)**
-
-***
-
-**To CB4 and MK,**
-
-**S4 (2018 深藍色膠裝)** <br>
-**(粉紅色影印本)** <br>
-10.3 Wave Nature of Light, Sound <br>
-10.4 Sound, Wave Motion Rev Test
-
-**S5 (2018 深藍色膠裝)** <br>
-**(紫色影印本)** <br>
-10.3 Alternating Current <br>
-10.4 Alternating Current, E&M Rev Test, DSE Mock 2018
 
 ***
 
@@ -76,6 +62,8 @@
 |9.4|31-45|
 |10.1|Wave Nature of Light 1-17|
 |10.2|18-32|
+|10.3|33-37, Sound 1-13|
+|10.4|14-30, Wave Motion Rev Test|
 
 ## S5 
 **(2018 深藍色膠裝)** <br>
@@ -121,7 +109,8 @@
 |9.4|36-46|
 |10.1|47-56|
 |10.2|57-62, Alternating Current 1-8|
-
+|10.3|9-20|
+|10.4|21-31, E&M Rev Test, DSE Mock 2018|
 
 ## S6 Revision 
 **(2018 淺藍色膠裝)** <br>
