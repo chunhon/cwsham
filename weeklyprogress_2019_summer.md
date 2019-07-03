@@ -80,6 +80,7 @@
 **(紫色影印本)**
 
 > S5 Force & Motion II 請見 S5 1.1-2.4
+
 |||
 |:-|:-|
 |1.1|Projectile Motion 1-12|
@@ -91,6 +92,7 @@
 |2.3|Gravitation 1-12|
 |2.4|13-23, Force & Motion Rev Test, DSE Mock 2015|
 
+> S5 Heat & Gases II 請見 S5 3.1-3.4
 
 |||
 |:-|:-|
@@ -98,6 +100,8 @@
 |3.2|18-31|
 |3.3|Kinetic Theory 1-10|
 |3.4|11-24, Heat and Gases Rev Test, DSE Mock 2016|
+
+> S5 E&M I 請見 S5 4.1-7.2
 
 |||
 |:-|:-|
@@ -116,6 +120,7 @@
 |7.1|11-21|
 |7.2|23-34, DSE Mock 2017|
 
+> S5 E&M II 請見 S5 7.3-10.4
 
 |||
 |:-|:-|
@@ -133,92 +138,5 @@
 |10.2|57-62, Alternating Current 1-8|
 |10.3|9-20|
 |10.4|21-31, E&M Rev Test, DSE Mock 2018|
-
-
-|4.4|32-49, Domestic Electricity (
-***
-
-## 2018 Summer 進度表
-
-## S4-6 Heat and Gases I 
-**(2018 深藍色膠裝)** <br>
-**(綠色影印本)**
-
-> S4/5 Special Course 1.1-2.4 <br>
-> 請見 2018 Summer S4-6 Heat & Gases I。
-
-|||
-|:-|:-|
-|1.1|Temperature Heat and Internal Energy 1-15|
-|1.2|16-26|
-|1.3|27-37|
-|1.4|38-41, Transfer Processes 1-10|
-|2.1|11-28|
-|2.2|Change of State 1-14|
-|2.3|15-28|
-|2.4|29-43|
-
-## S5/6 Radioactivity
-**(2018 深藍色膠裝)** <br>
-**(綠色影印本)**
-
-> S6 Section E,E1,E2,E3 1.1-2.2 <br>
-> 請見 S5/6 Radioactivity。
-
-|||
-|:-|:-|
-|1.1|Radiation and Radioactivity 1-15|
-|1.2|16-29|
-|1.3|30-43|
-|1.4|44-47, Atomic Model 1-9|
-|2.1|10-24|
-|2.2|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2018|
-
-## S6 Astronomy
-**(2018 青色膠裝)** <br>
-**(綠色影印本)**
-
-> S6 Section E,E1,E2,E3 2.3-4.2 <br>
-> 請見 S6 Astronomy。
-
-|||
-|:-|:-|
-|1.1|The universe as seen in different scales 1-15|
-|1.2|16-22, Astronomy through history 1-8|
-|1.3|9-19|
-|1.4|Orbital Motion under gravity 1-12|
-|2.1|13-24|
-|2.2|Stars and the Universe 1-12|
-|2.3|13-24|
-|2.4|25-38, Astronomy Rev Test|
-
-***
-
-## 2017-2018 進度表
-## S4 Wave Motion
-**(2017 藍色膠裝)** <br>
-**(紫色影印本)** <br>
-
-> S4/5 Special Course 3.1-6.4 <br>
-> 請見 2017-2018 S4 Wave Motion。 <br>
-
-|||
-|:-|:-|
-|7.1|Wave Propagation 1-13|
-|7.2|14-22|
-|7.3|23-26, Wave Phenomena 1-10|
-|7.4|11-24|
-|8.1|25-36|
-|8.2|37-50|
-|8.3|Reflection and Refraction of Light 1-12|
-|8.4|13-25|
-|9.1|26-38|
-|9.2|39-41, Lenses 1-13|
-|9.3|14-29|
-|9.4|30-43|
-|10.1|Wave Nature of Light 1-18|
-|10.2|19-32|
-|10.3|33-36, Sound 1-13|
-|10.4|14-29, Wave Motion Rev Test|
 
 ***
