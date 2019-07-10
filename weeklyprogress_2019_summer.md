@@ -1,7 +1,7 @@
 # C W Sham 2019 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**4/7/2019**
+**11/7/2019**
 > 逢星期三或四晚出
 
 **Dear all,**
@@ -16,7 +16,7 @@
 
 ***
 
-**To CB4 and MK,**
+**To CB4 and MK,**  
 **S4 Heat (深藍色膠裝)**
 **(黃色影印本)**
 1.1 Temperature Heat and Internal Energy
