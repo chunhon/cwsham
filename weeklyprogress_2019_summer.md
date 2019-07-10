@@ -16,8 +16,23 @@
 
 ***
 
+**To CB4 and MK,**
+**S4 Heat (深藍色膠裝)**
+**(黃色影印本)**
+1.1 Temperature Heat and Internal Energy
+
+**S5 Radioactivity (深藍色膠裝)**
+**(黃色影印本)**
+1.1 Radiation and Radioactivity 
+
+**S6 Astronomy (青色膠裝)**
+**(紫色影印本)**
+1.1 The Universe as seen in different scale
+
+***
+
 ## 2018-2019 進度表
-**(2018 深藍色膠裝)** <br>
+**(深藍色膠裝)** <br>
 
 ## S4 
 **(粉紅色影印本)**
