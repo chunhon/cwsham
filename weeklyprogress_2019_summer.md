@@ -36,22 +36,25 @@
 **(第一頁印有 “2019 EDITION” 字句)** <br>
 
 ## S4 Heat 
-**(深藍色膠裝)**
-**(黃色影印本)**
+**(深藍色膠裝)** <br>
+**(黃色影印本)** <br>
+
 |||
 |:-|:-|
 |1.1|Temperature Heat and Internal Energy 1-15|
 
 ## S5 Radioactivity 
-**(深藍色膠裝)**
-**(黃色影印本)**
+**(深藍色膠裝)** <br>
+**(黃色影印本)** <br>
+
 |||
 |:-|:-|
 |1.1|Radiation and Radioactivity 1-15|
 
 ## S6 Astronomy 
-**(青色膠裝)**
-**(紫色影印本)**
+**(青色膠裝)** <br>
+**(紫色影印本)** <br>
+
 |||
 |:-|:-|
 |1.1|The Universe as seen in different scale 1-15|
