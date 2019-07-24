@@ -20,15 +20,15 @@
 **To CB4 and MK,**  
 **S4 Heat (深藍色膠裝)**  
 **(黃色影印本)**  
-1.2 Temperature Heat and Internal Energy
+1.3 Temperature Heat and Internal Energy
 
 **S5 Radioactivity (深藍色膠裝)**  
 **(黃色影印本)**  
-1.2 Radiation and Radioactivity 
+1.3 Radiation and Radioactivity 
 
 **S6 Astronomy (青色膠裝)**  
 **(紫色影印本)**  
-1.2 The Universe as seen in different scale, Astronomy through history
+1.3 Astronomy through history
 
 ***
 
@@ -42,6 +42,7 @@
 |||
 |:-|:-|
 |1.1|Temperature Heat and Internal Energy 1-15|
+|1.2|16-26|
 
 ## S5 Radioactivity 
 **(深藍色膠裝)** <br>
@@ -50,6 +51,7 @@
 |||
 |:-|:-|
 |1.1|Radiation and Radioactivity 1-15|
+|1.2|16-29|
 
 ## S6 Astronomy 
 **(青色膠裝)** <br>
@@ -58,6 +60,7 @@
 |||
 |:-|:-|
 |1.1|The Universe as seen in different scale 1-15|
+|1.2|16-22, Astronomy through history 1-8|
 
 ***
 
