@@ -1,7 +1,7 @@
 # C W Sham 2019 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**18/7/2019**
+**25/7/2019**
 > 逢星期三或四晚出
 
 **Dear all,**
