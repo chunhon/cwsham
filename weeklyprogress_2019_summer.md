@@ -1,7 +1,7 @@
 # C W Sham 2019 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**25/7/2019**
+**1/8/2019**
 > 逢星期三或四晚出
 
 **Dear all,**
@@ -20,15 +20,15 @@
 **To CB4 and MK,**  
 **S4 Heat (深藍色膠裝)**  
 **(黃色影印本)**  
-1.3 Temperature Heat and Internal Energy
+1.4 Temperature Heat and Internal Energy, Transfer Processes 
 
 **S5 Radioactivity (深藍色膠裝)**  
 **(黃色影印本)**  
-1.3 Radiation and Radioactivity 
+L4 Radiation and Radioactivity, Atomic Model
 
 **S6 Astronomy (青色膠裝)**  
 **(紫色影印本)**  
-1.3 Astronomy through history
+1.4 Orbital motion under gravity 
 
 ***
 
@@ -43,6 +43,7 @@
 |:-|:-|
 |1.1|Temperature Heat and Internal Energy 1-15|
 |1.2|16-26|
+|1.3|27-37|
 
 ## S5 Radioactivity 
 **(深藍色膠裝)** <br>
@@ -50,8 +51,9 @@
 
 |||
 |:-|:-|
-|1.1|Radiation and Radioactivity 1-15|
-|1.2|16-29|
+|L1|Radiation and Radioactivity 1-15|
+|L2|16-29|
+|L3|30-43|
 
 ## S6 Astronomy 
 **(青色膠裝)** <br>
@@ -61,6 +63,7 @@
 |:-|:-|
 |1.1|The Universe as seen in different scale 1-15|
 |1.2|16-22, Astronomy through history 1-8|
+|1.3|9-19|
 
 ***
 
