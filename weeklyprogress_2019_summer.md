@@ -20,12 +20,12 @@
 **To CB4 and MK,**  
 **S4 Heat (深藍色膠裝)**  
 **(黃色影印本)**  
-2.3 Change of State 
+2.3 Change of State  
 2.4 Change of State 
 
 **S6 Astronomy (青色膠裝)**  
 **(紫色影印本)**  
-2.3 Stars and the Universe 
+2.3 Stars and the Universe  
 2.4 Stars and the Universe, Astronomy Rev Test
 
 ***
