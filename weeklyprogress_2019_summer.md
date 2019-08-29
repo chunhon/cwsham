@@ -23,11 +23,11 @@
 1.1 Position and Movement 
 
 **S5 (深藍色膠裝)**
-**(粉紅色影印本)**
+**(粉紅色影印本)**  
 1.1 Projectile Motion
 
 **S6 Revision (淺藍色膠裝)**
-**(紫色影印本)**
+**(紫色影印本)**  
 1.1 Temperature Heat and Internal Energy (Rev)
 
 **S6 Elective (青色膠裝)**  
@@ -52,6 +52,8 @@
 |1.4|38-41, Transfer Processes 1-10|
 |2.1|11-28|
 |2.2|Change of State 1-14|
+|2.3|15-29|
+|2.4|30-43|
 
 ## S5 Radioactivity 
 **(深藍色膠裝)** <br>
@@ -78,6 +80,8 @@
 |1.4|Orbital motion under gravity 1-12(half)|
 |2.1|12-24|
 |2.2|Stars and the Universe 1-13|
+|2.3|14-26|
+|2.4|27-39, Astronomy Rev Test|
 
 ***
 
