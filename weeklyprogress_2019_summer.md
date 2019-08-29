@@ -1,7 +1,7 @@
 # C W Sham 2019 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**22/8/2019**
+**29/8/2019**
 > 逢星期三或四晚出
 
 **Dear all,**
@@ -18,15 +18,22 @@
 ***
 
 **To CB4 and MK,**  
-**S4 Heat (深藍色膠裝)**  
+**S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-2.3 Change of State  
-2.4 Change of State 
+1.1 Position and Movement 
 
-**S6 Astronomy (青色膠裝)**  
+**S5 (深藍色膠裝)**
+**(粉紅色影印本)**
+1.1 Projectile Motion
+
+**S6 Revision (淺藍色膠裝)**
+**(紫色影印本)**
+1.1 Temperature Heat and Internal Energy (Rev)
+
+**S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-2.3 Stars and the Universe  
-2.4 Stars and the Universe, Astronomy Rev Test
+1.1 Rutherford’s atomic model
+
 
 ***
 
