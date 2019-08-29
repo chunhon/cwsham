@@ -22,11 +22,11 @@
 **(黃色影印本)**  
 1.1 Position and Movement 
 
-**S5 (深藍色膠裝)**
+**S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
 1.1 Projectile Motion
 
-**S6 Revision (淺藍色膠裝)**
+**S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
 1.1 Temperature Heat and Internal Energy (Rev)
 
