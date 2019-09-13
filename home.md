@@ -4,7 +4,7 @@
 ## 通告
 |||
 |:-|:-|
-|7-9-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_07092019.md)|
+|14-9-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_07092019.md)|
 |8-6-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_08062019.md)|
 |22-3-2019|C W Sham 中六書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_22032019.md)|
 |15-3-2019|C W Sham DSE Mock 2019 [link](https://github.com/chunhon/cwsham/blob/master/mock_2019.md)|
