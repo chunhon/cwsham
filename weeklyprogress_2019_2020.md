@@ -1,14 +1,13 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**7/9/2019**
+**14/9/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
 1. 2019 筆記於第一頁印有 “2019 EDITION” 字句。<br>
-2. S4 Special Course 1.1-2.4 請見 S4 Heat 1.1-2.4。<br>
-3. 若章程與進度表不同，以進度表為準。<br>
+2. 若章程與進度表不同，以進度表為準。<br>
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -21,19 +20,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-1.2 Position and Movement 
+1.3 Position and Movement 
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-1.2 Projectile Motion
+1.3 Projectile Motion
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-1.2 Transfer Processes (Rev), Change of State (Rev)
+1.3 Change of State (Rev), General Gas Law (Rev)
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-1.2 Photoelectric effect
+1.3 Photoelectric effect
 
 ***
 
@@ -46,6 +45,7 @@
 |||
 |:-|:-|
 |1.1|Position and Movement 1-15|
+|1.2|16-25|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -54,6 +54,7 @@
 |||
 |:-|:-|
 |1.1|Projectile Motion 1-12|
+|1.2|13-21|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -62,6 +63,7 @@
 |||
 |:-|:-|
 |1.1|Temperature Heat and Internal Energy (Rev) 1-30|
+|1.2|Transfer Processes (Rev) 1-16, Change of State (Rev) 1-12(half)|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -70,6 +72,7 @@
 |||
 |:-|:-|
 |1.1|Rutherford’s atomic model 1-11|
+|1.2|Photoelectric effect 1-11|
 
 ***
 
@@ -105,7 +108,6 @@
 |L6|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2019|
 
 ***
-
 
 
 
