@@ -27,7 +27,7 @@
 2.1 Circular Motion
 
 **S6 Revision (淺藍色膠裝)**  
-**(紫色影印本)**
+**(紫色影印本)**  
 2.1 Position and Movement (Rev)
 
 **S6 Elective (青色膠裝)**  
@@ -69,7 +69,7 @@
 |1.1|Temperature Heat and Internal Energy (Rev) 1-30|
 |1.2|Transfer Processes (Rev) 1-16, Change of State (Rev) 1-12(half)|
 |1.3|12-34, General Gas Law (Rev) 1-8|
-|1.4|General Gas Law (Rev) 9-27, Kinetic Theory (Rev) 1-17, Heat & Gases Rev Test, DSE Mock 2012|
+|1.4|9-27, Kinetic Theory (Rev) 1-17, Heat & Gases Rev Test, DSE Mock 2012|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
