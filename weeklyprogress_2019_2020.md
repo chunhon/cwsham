@@ -1,7 +1,7 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**19/10/2019**
+**26/10/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -21,19 +21,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-2.4 Newton's Laws
+3.1 Newton's Laws
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-2.4 Gravitation, Force & Motion Rev Test, DSE Mock 2017
+3.1 General Gas Law
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-2.4 Newton’s Laws (Rev), Moment of Force (Rev), DSE Mock 2013
+3.1 Work Energy and Power (Rev)
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-2.4 Probing into nano scales, Atomic World Rev Test
+3.1 Electricity at home
 
 ***
 
@@ -52,6 +52,7 @@
 |2.1|47-56|
 |2.2|57-63, Newton’s Laws 1-6|
 |2.3|7-22|
+|2.4|23-33|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -66,6 +67,7 @@
 |2.1|11-20|
 |2.2|21-33|
 |2.3|Gravitation 1-13|
+|2.4|14-23, Force & Motion Rev Test, DSE Mock 2017|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -80,6 +82,7 @@
 |2.1|Position and Movement (Rev) 1-33|
 |2.2|34-42, Newton’s Laws (Rev) 1-20|
 |2.3|21-48|
+|2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2013|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -94,6 +97,7 @@
 |2.1|11-20|
 |2.2|21-26, Particles or Waves 1-7|
 |2.3|8-12, Probing into nano scales 1-9|
+|2.4|10-27, Atomic World Rev Test|
 
 ***
 
