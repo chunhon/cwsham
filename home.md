@@ -1,11 +1,6 @@
 # C W Sham
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-## VIP 記錄
-|||
-|:-|:-|
-|Oct 2019|[link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
-
 ## 通告
 |||
 |:-|:-|
@@ -18,6 +13,12 @@
 |2-1-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_02012019.md)|
 |10-11-2018|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_10112018.md)|
 |3-9-2018|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_03092018.md)|
+<br>
+
+## VIP 記錄
+|||
+|:-|:-|
+|Oct 2019|[link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
 <br>
 
 ## 進度表
