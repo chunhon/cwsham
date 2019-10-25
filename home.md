@@ -1,8 +1,10 @@
 # C W Sham
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-## C W Sham VIP 記錄
-C W Sham VIP [link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)
+## VIP 記錄
+|||
+|:-|:-|
+|Oct 2019|[link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
 
 ## 通告
 |||
