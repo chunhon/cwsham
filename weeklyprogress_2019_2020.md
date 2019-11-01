@@ -1,14 +1,13 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**26/10/2019**
+**2/11/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-1. 2019 筆記於第一頁印有 “2019 EDITION” 字句。  
-2. S6 Special Course: Astronomy 請見 2019 Summer Astronomy。  
-3. 若章程與進度表不同，以進度表為準。  
+1. 2019 筆記於第一頁印有 “2019 EDITION” 字句。   
+2. 若章程與進度表不同，以進度表為準。  
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
@@ -21,19 +20,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-3.1 Newton's Laws
+3.2 Newton's Laws
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-3.1 General Gas Law
+3.2 General Gas Law
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-3.1 Work Energy and Power (Rev)
+3.2 Momentum (Rev)
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-3.1 Electricity at home
+3.2 Electricity at home
 
 ***
 
@@ -53,6 +52,7 @@
 |2.2|57-63, Newton’s Laws 1-6|
 |2.3|7-22|
 |2.4|23-33|
+|3.1|34-44|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -68,6 +68,7 @@
 |2.2|21-33|
 |2.3|Gravitation 1-13|
 |2.4|14-23, Force & Motion Rev Test, DSE Mock 2017|
+|3.1|General Gas Law 1-17|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -83,6 +84,7 @@
 |2.2|34-42, Newton’s Laws (Rev) 1-20|
 |2.3|21-48|
 |2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2013|
+|3.1|Work Energy and Power (Rev) 1-38|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -98,6 +100,7 @@
 |2.2|21-26, Particles or Waves 1-7|
 |2.3|8-12, Probing into nano scales 1-9|
 |2.4|10-27, Atomic World Rev Test|
+|3.1|Electricity at home 1-11|
 
 ***
 
