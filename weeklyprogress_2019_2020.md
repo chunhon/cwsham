@@ -1,13 +1,14 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**16/11/2019**
+**23/11/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
 
 1. 2019 筆記於第一頁印有 “2019 EDITION” 字句。   
-2. 若章程與進度表不同，以進度表為準。  
+2. S4 Special Course: Wave Motion 請見 2018-2019 S4 7.1-10.4。
+3. 若章程與進度表不同，以進度表為準。  
 
 **Thx,** <br>
 **Hon :)**
@@ -17,19 +18,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-3.4 Newton's Laws
+4.1 Newton’s Laws, Moment of Force
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-3.4 Kinetic Theory, Heat & Gases Rev Test, DSE Mock 2016
+4.1 Electrostatics 
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-3.4 Circular Motion (Rev), Gravitation (Rev), Force & Motion Rev Test, DSE Mock 2014
+4.1 Electrostatics (Rev)
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-3.4 Electricity at home, Energy efficiency in building
+4.1 Energy efficiency in building, Energy efficiency in transportation 
 
 ***
 
@@ -52,6 +53,7 @@
 |3.1|34-44|
 |3.2|45-54|
 |3.3|55-66|
+|3.4|67-77|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -70,6 +72,7 @@
 |3.1|General Gas Law 1-17|
 |3.2|18-31|
 |3.3|Kinetic Theory 1-10|
+|3.4|11-25, Heat & Gases Rev Test, DSE Mock 2016|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -88,6 +91,7 @@
 |3.1|Work Energy and Power (Rev) 1-38|
 |3.2|Momentum (Rev) 1-36|
 |3.3|Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-5|
+|3.4|6-21, Gravitation (Rev) 1-17, Force & Motion Rev Test, DSE Mock 2014|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -114,7 +118,7 @@
 ## S4 Heat 
 **(深藍色膠裝)** <br>
 **(黃色影印本)** <br>
-> S4 Special Course 1.1-2.4 請見 S4 Heat 1.1-2.4。
+> S4 Special Course 1.1-2.4 請見 2019 Summer S4 Heat 1.1-2.4。
 
 |||
 |:-|:-|
@@ -157,6 +161,27 @@
 
 ***
 
+## 2018-2019 進度表
 
+## S4
+**(深藍色膠裝)**  
+**(粉紅色影印本)** 
+> S4 Special Course 3.1-6.4 請見 2018-2019 S4 7.1-10.4。
+|7.1|Wave Propagation 1-13|
+|7.2|14-22|
+|7.3|23-26, Wave Phenomena 1-10|
+|7.4|11-24|
+|8.1|25-36|
+|8.2|37-50|
+|8.3|Reflection and Refraction of Light 1-12|
+|8.4|13-25|
+|9.1|26-39|
+|9.2|40-42, Lenses 1-14|
+|9.3|15-30|
+|9.4|31-45|
+|10.1|Wave Nature of Light 1-17|
+|10.2|18-32|
+|10.3|33-37, Sound 1-13|
+|10.4|14-30, Wave Motion Rev Test|
 
-
+***
