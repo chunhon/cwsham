@@ -110,6 +110,7 @@
 |3.1|Electricity at home 1-11|
 |3.2|12-21|
 |3.3|22-31|
+|3.4|32-36, Energy efficiency in building 1-8|
 
 ***
 
