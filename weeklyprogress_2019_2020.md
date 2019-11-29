@@ -1,7 +1,7 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**23/11/2019**
+**=30/11/2019**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -18,19 +18,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-4.1 Newton’s Laws, Moment of Force
+4.2 Moment of Force
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-4.1 Electrostatics 
+4.2 Electrostatics 
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-4.1 Electrostatics (Rev)
+4.2 Electrostatics (Rev), Electric Circuits (Rev) 
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-4.1 Energy efficiency in building, Energy efficiency in transportation 
+4.2 Energy efficiency in transportation, Non renewable energy sources
 
 ***
 
@@ -54,6 +54,7 @@
 |3.2|45-54|
 |3.3|55-66|
 |3.4|67-77|
+|4.1|78-80, Moment of Force 1-7|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -73,6 +74,7 @@
 |3.2|18-31|
 |3.3|Kinetic Theory 1-10|
 |3.4|11-25, Heat & Gases Rev Test, DSE Mock 2016|
+|4.1|Electrostatics 1-15|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -92,6 +94,7 @@
 |3.2|Momentum (Rev) 1-36|
 |3.3|Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-5|
 |3.4|6-21, Gravitation (Rev) 1-17, Force & Motion Rev Test, DSE Mock 2014|
+|4.1|Electrostatics (Rev) 1-26|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -111,6 +114,7 @@
 |3.2|12-21|
 |3.3|22-31|
 |3.4|32-36, Energy efficiency in building 1-8|
+|4.1|9-16, Energy efficiency in transportation 1-6|
 
 ***
 
