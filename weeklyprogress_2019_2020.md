@@ -9,10 +9,10 @@
 1. 2019 筆記於第一頁印有 **2019 EDITION** 字句。   
 2. S6 Special: Atomic World 請見 S6 Elective 1.1-2.4。
 3. 地獄班
-S6 Astronomy 請見 2019 Summer S6 Astronomy。
-S6 Atomic World 請見 S6 Elective 1.1-2.4。
-S6 Heat Revision 請見 S6 Revision 1.1-1.4。
-S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
+S6 Astronomy 請見 2019 Summer S6 Astronomy。  
+S6 Atomic World 請見 S6 Elective 1.1-2.4。  
+S6 Heat Revision 請見 S6 Revision 1.1-1.4。  
+S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。  
 4. 若章程與進度表不同，以進度表為準。  
 
 **Thx,** <br>
