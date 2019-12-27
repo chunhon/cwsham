@@ -23,19 +23,19 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-5.1 Work Energy and Power  
+5.2 Work Energy and Power  
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-5.1 Electric Circuits  
+5.2 Electric Circuits  
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-5.1 Domestic Electricity (Rev), Magnetic Field (Rev) 
+5.2 Magnetic Field (Rev) 
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-5.1 Making sense of the eye  
+5.2 Making sense of the eye  
 
 ***
 
@@ -63,6 +63,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.2|8-17|
 |4.3|Work Energy and Power 1-14|
 |4.4|15-23|
+|5.1|24-33|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -86,6 +87,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.2|16-32|
 |4.3|33-42|
 |4.4|43-52|
+|5.1|Electric Circuits 1-11|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -109,6 +111,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.2|27-40, Electric Circuits (Rev) 1-9|
 |4.3|10-31|
 |4.4|32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015|
+|5.1|8-26, Magnetic Field (Rev) 1-7|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -132,6 +135,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.2|6-18, Non renewable energy sources 1-11|
 |4.3|12-22, Renewable energy sources 1-6|
 |4.4|7-24, Energy & Use of Energy Rev Test|
+|5.1|Making sense of the eye 1-12|
 
 ***
 
