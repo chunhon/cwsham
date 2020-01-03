@@ -1,19 +1,14 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**28/12/2019**
+**04/01/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
 
 1. 2019 筆記於第一頁印有 **2019 EDITION** 字句。   
-2. S6 Special: Atomic World 請見 S6 Elective 1.1-2.4。
-3. 地獄班  
-S6 Astronomy 請見 2019 Summer S6 Astronomy。  
-S6 Atomic World 請見 S6 Elective 1.1-2.4。  
-S6 Heat Revision 請見 S6 Revision 1.1-1.4。  
-S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。  
-4. 若章程與進度表不同，以進度表為準。  
+2020 筆記於第一頁印有 “2020 EDITION” 字句。  
+2. 若章程與進度表不同，以進度表為準。  
 
 **Thx,** <br>
 **Hon :)**
@@ -23,19 +18,19 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-5.2 Work Energy and Power  
+5.3 Work Energy and Power  
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-5.2 Electric Circuits  
+5.3 Electric Circuits  
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-5.2 Magnetic Field (Rev) 
+5.3 Magnetic Field (Rev), Electromagnet Induction (Rev)  
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-5.2 Making sense of the eye  
+5.3 Making sense of the ear  
 
 ***
 
@@ -64,6 +59,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.3|Work Energy and Power 1-14|
 |4.4|15-23|
 |5.1|24-33|
+|5.2|34-44|
 
 ## S5 
 **(深藍色膠裝)** <br>
@@ -88,6 +84,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.3|33-42|
 |4.4|43-52|
 |5.1|Electric Circuits 1-11|
+|5.2|12-21|
 
 ## S6 Revision 
 **(淺藍色膠裝)** <br>
@@ -112,6 +109,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.3|10-31|
 |4.4|32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015|
 |5.1|8-26, Magnetic Field (Rev) 1-7|
+|5.2|8-31|
 
 ## S6 Elective 
 **(青色膠裝)** <br>
@@ -136,6 +134,7 @@ S6 Force & Motion Revision 請見 S6 Revision 2.1-3.4。
 |4.3|12-22, Renewable energy sources 1-6|
 |4.4|7-24, Energy & Use of Energy Rev Test|
 |5.1|Making sense of the eye 1-12|
+|5.2|13-23|
 
 ***
 
