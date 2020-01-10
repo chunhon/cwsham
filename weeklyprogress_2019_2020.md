@@ -1,7 +1,7 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**04/01/2020**
+**11/01/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -10,35 +10,35 @@
 2020 筆記於第一頁印有 **2020 EDITION** 字句。  
 2. 若章程與進度表不同，以進度表為準。  
 
-**Thx,** <br>
-**Hon :)**
+**Thx,**  
+**Hon :)**  
 
 ***
 
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-5.3 Work Energy and Power  
+5.4 Momentum  
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-5.3 Electric Circuits  
+5.4 Electric Circuits  
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-5.3 Magnetic Field (Rev), Electromagnet Induction (Rev)  
+5.4 Electromagnetic Induction (Rev), Alternating Current (Rev), E&M Rev Test, DSE Mock 2016   
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-5.3 Making sense of the ear  
+5.4 Medical imaging using non-ionizing radiation   
 
 ***
 
 ## 2019-2020 進度表
 
 ## S4
-**(深藍色膠裝)** <br>
-**(黃色影印本)** <br>
+**(深藍色膠裝)**  
+**(黃色影印本)**  
 
 |||
 |:-|:-|
@@ -60,10 +60,11 @@
 |4.4|15-23|
 |5.1|24-33|
 |5.2|34-44|
+|5.3|45-56|
 
 ## S5 
-**(深藍色膠裝)** <br>
-**(粉紅色影印本)** <br>
+**(深藍色膠裝)**  
+**(粉紅色影印本)**  
 
 |||
 |:-|:-|
@@ -87,8 +88,8 @@
 |5.2|12-21|
 
 ## S6 Revision 
-**(淺藍色膠裝)** <br>
-**(紫色影印本)** <br>
+**(淺藍色膠裝)**  
+**(紫色影印本)**  
 
 |||
 |:-|:-|
@@ -110,10 +111,11 @@
 |4.4|32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015|
 |5.1|8-26, Magnetic Field (Rev) 1-7|
 |5.2|8-31|
+|5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 
 ## S6 Elective 
-**(青色膠裝)** <br>
-**(紫色影印本)** <br>
+**(青色膠裝)**  
+**(紫色影印本)**  
 
 |||
 |:-|:-|
@@ -135,14 +137,15 @@
 |4.4|7-24, Energy & Use of Energy Rev Test|
 |5.1|Making sense of the eye 1-12|
 |5.2|13-23|
+|5.3|Making sense of the ear 1-14|
 
 ***
 
 ## 2019 Summer 進度表
 
 ## S4 Heat 
-**(深藍色膠裝)** <br>
-**(黃色影印本)** <br>
+**(深藍色膠裝)**  
+**(黃色影印本)**  
 > S4 Special Course 1.1-2.4 請見 2019 Summer S4 Heat 1.1-2.4。
 
 |||
@@ -157,8 +160,8 @@
 |2.4|30-43|
 
 ## S5 Radioactivity 
-**(深藍色膠裝)** <br>
-**(黃色影印本)** <br>
+**(深藍色膠裝)**  
+**(黃色影印本)**  
 
 |||
 |:-|:-|
@@ -190,7 +193,7 @@
 
 ## S4
 **(深藍色膠裝)**  
-**(粉紅色影印本)** 
+**(粉紅色影印本)**  
 > S4 Special Course 3.1-6.4 請見 2018-2019 S4 7.1-10.4。
 
 |||
