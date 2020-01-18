@@ -1,14 +1,21 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**11/01/2020**
+**18/01/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
 
 1. 2019 筆記於第一頁印有 **2019 EDITION** 字句。   
 2020 筆記於第一頁印有 **2020 EDITION** 字句。  
-2. 若章程與進度表不同，以進度表為準。  
+2. 突圍班
+- S6 Heat & Gases (Rev) 請見 S6 Revision 1.1-1.4。
+- S6 Force & Motion (Rev) 請見 S6 Revision 2.1-3.4。
+- S6 E&M (Rev) 請見 S6 Revision 4.1-5.4。
+- S6 Astronomy 請見 2019 Summer Astronomy。
+- S6 Atomic World S6 請見 S6 Elective 1.1-2.4。
+- S6 Energy S6 請見 S6 Elective 3.1-4.4。
+3. 若章程與進度表不同，以進度表為準。  
 
 **Thx,**  
 **Hon :)**  
@@ -18,19 +25,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-5.4 Momentum  
+6.1 Momentum  
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-5.4 Electric Circuits  
+6.1 Electric Circuits  
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-5.4 Electromagnetic Induction (Rev), Alternating Current (Rev), E&M Rev Test, DSE Mock 2016   
+6.1 Wave Propagation (Rev), Wave Phenomena (Rev)   
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-5.4 Medical imaging using non-ionizing radiation   
+6.1 Medical imaging using non-ionizing radiation   
 
 ***
 
@@ -61,6 +68,7 @@
 |5.1|24-33|
 |5.2|34-44|
 |5.3|45-56|
+|5.4|Momentum 1-10|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -87,6 +95,7 @@
 |5.1|Electric Circuits 1-11|
 |5.2|12-21|
 |5.3|22-33|
+|5.4|34-43|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -113,6 +122,7 @@
 |5.1|8-26, Magnetic Field (Rev) 1-7|
 |5.2|8-31|
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
+|5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -139,6 +149,7 @@
 |5.1|Making sense of the eye 1-12|
 |5.2|13-23|
 |5.3|Making sense of the ear 1-14|
+|5.4|Medical imaging using non-ionizing radiation 1-14|
 
 ***
 
