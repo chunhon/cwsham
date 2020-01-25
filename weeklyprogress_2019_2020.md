@@ -25,19 +25,19 @@
 **To CB4 and MK,**  
 **S4 (深藍色膠裝)**  
 **(黃色影印本)**  
-6.1 Momentum  
+6.2 Momentum  
 
 **S5 (深藍色膠裝)**  
 **(粉紅色影印本)**  
-6.1 Electric Circuits  
+6.2 Electric Circuits  
 
 **S6 Revision (淺藍色膠裝)**  
 **(紫色影印本)**  
-6.1 Wave Propagation (Rev), Wave Phenomena (Rev)   
+6.2 Wave Phenomena (Rev)   
 
 **S6 Elective (青色膠裝)**  
 **(紫色影印本)**  
-6.1 Medical imaging using non-ionizing radiation   
+6.2 Medical imaging using non-ionizing radiation, Medical imaging using ionizing radiation   
 
 ***
 
@@ -69,6 +69,7 @@
 |5.2|34-44|
 |5.3|45-56|
 |5.4|Momentum 1-10|
+|6.1|11-20|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -96,6 +97,7 @@
 |5.2|12-21|
 |5.3|22-33|
 |5.4|34-43|
+|6.1|44-54|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -123,6 +125,7 @@
 |5.2|8-31|
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
+|6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -150,6 +153,7 @@
 |5.2|13-23|
 |5.3|Making sense of the ear 1-14|
 |5.4|Medical imaging using non-ionizing radiation 1-14|
+|6.1|15-25|
 
 ***
 
