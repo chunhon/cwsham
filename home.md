@@ -6,16 +6,16 @@
 |:-|:-|
 |03-01-2020|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_03012020.md)|
 |13-12-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_13122019.md)|
-|1-11-2019|C W Sham 中五(第一二期)書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_01112019.md)|
+|01-11-2019|C W Sham 中五(第一二期)書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_01112019.md)|
 |13-10-2019|C W Sham 中六(第一期)書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_13102019.md)|
-|7-9-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_07092019.md)|
-|8-6-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_08062019.md)|
-|22-3-2019|C W Sham 中六書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_22032019.md)|
-|15-3-2019|C W Sham DSE Mock 2019 [link](https://github.com/chunhon/cwsham/blob/master/mock_2019.md)|
-|15-2-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_15022019.md)|
-|2-1-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_02012019.md)|
+|07-09-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_07092019.md)|
+|08-06-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_08062019.md)|
+|22-03-2019|C W Sham 中六書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_22032019.md)|
+|15-03-2019|C W Sham DSE Mock 2019 [link](https://github.com/chunhon/cwsham/blob/master/mock_2019.md)|
+|15-02-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_15022019.md)|
+|02-01-2019|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_02012019.md)|
 |10-11-2018|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_10112018.md)|
-|3-9-2018|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_03092018.md)|
+|03-09-2018|C W Sham 書回收 [link](https://github.com/chunhon/cwsham/blob/master/return_03092018.md)|
 <br>
 
 ## VIP 記錄
@@ -27,10 +27,10 @@
 ## 進度表
 |||
 |:-|:-|
-|25-01-2020|C W Sham 2019-2020 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_2020.md)|
-|29-8-2019|C W Sham 2019 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_summer.md)|
-|25-5-2019|C W Sham 2018-2019 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_2019.md)|
-|1-9-2018|C W Sham 2018 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_summer.md)|
+|01-02-2020|C W Sham 2019-2020 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_2020.md)|
+|29-08-2019|C W Sham 2019 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_summer.md)|
+|25-05-2019|C W Sham 2018-2019 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_2019.md)|
+|01-09-2018|C W Sham 2018 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_summer.md)|
 
 ***
 
