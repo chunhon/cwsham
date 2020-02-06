@@ -1,36 +1,21 @@
 # C W Sham 2019-2020 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**01/02/2020**
+**08/02/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-1. 2019 筆記於第一頁印有 **2019 EDITION** 字句。   
-2020 筆記於第一頁印有 **2020 EDITION** 字句。  
-2. 若章程與進度表不同，以進度表為準。  
+進度表更新：  
+S4 S5 更新至 7.4。  
+S6 Revision 更新至 7.2。  
+S6 Elective 更新至 6.4。  
+
+**6.4-7.4 筆記會在一星期送抵。**  
+影片會陸逐上載。  
 
 **Thx,**  
-**Hon :)**  
-
-***
-
-**To CB4 and MK,**  
-**S4 (深藍色膠裝)**  
-**(黃色影印本)**  
-6.3 Momentum  
-
-**S5 (深藍色膠裝)**  
-**(粉紅色影印本)**  
-6.3 Electric Circuits  
-
-**S6 Revision (淺藍色膠裝)**  
-**(紫色影印本)**  
-6.3 Wave Phenomena (Rev), Reflection and Refraction of Light (Rev)   
-
-**S6 Elective (青色膠裝)**  
-**(紫色影印本)**  
-6.3 Medical imaging using ionizing radiation   
+**Hon :)**   
 
 ***
 
@@ -64,6 +49,12 @@
 |5.4|Momentum 1-10|
 |6.1|11-20|
 |6.2|21-30|
+|6.3|31-39|
+|6.4|40-51|
+|7.1|Wave Propagation 1-13|
+|7.2|14-22|
+|7.3|23-26, Wave Phenomena 1-10|
+|7.4|11-24|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -93,6 +84,12 @@
 |5.4|34-43|
 |6.1|44-54|
 |6.2|55-67|
+|6.3|68-79|
+|6.4|Domestic Electricity 1-10|
+|7.1|11-22|
+|7.2|23-34, DSE Mock 2018|
+|7.3|Magnetic Field 1-13|
+|7.4|14-26|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -122,6 +119,10 @@
 |5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2016|
 |6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
 |6.2|7-22|
+|6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
+|6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2017|
+|7.1|19-36, Wave Nature of Light (Rev) 1-19|
+|7.2|20-31, Sound (Rev) 1-24, Wave Motion Rev Test, DSE Mock 2018|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -151,6 +152,8 @@
 |5.4|Medical imaging using non-ionizing radiation 1-14|
 |6.1|15-25|
 |6.2|26-30, Medical imaging using ionizing radiation 1-8|
+|6.3|9-21|
+|6.4|22-33, Medical Physics Rev Test|
 
 ***
 
