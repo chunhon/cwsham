@@ -27,7 +27,7 @@
 ## 進度表
 |||
 |:-|:-|
-|01-02-2020|C W Sham 2019-2020 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_2020.md)|
+|08-02-2020|C W Sham 2019-2020 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_2020.md)|
 |29-08-2019|C W Sham 2019 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_summer.md)|
 |25-05-2019|C W Sham 2018-2019 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_2019.md)|
 |01-09-2018|C W Sham 2018 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2018_summer.md)|
