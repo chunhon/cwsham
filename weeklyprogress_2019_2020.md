@@ -123,6 +123,8 @@ S6 Elective 更新至 6.4。
 |6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2017|
 |7.1|19-36, Wave Nature of Light (Rev) 1-19|
 |7.2|20-31, Sound (Rev) 1-24, Wave Motion Rev Test, DSE Mock 2018|
+|7.3|Radiation and Radioactivity (Rev) 1-32|
+|7.4|33-36, Atomic Model (Rev) 1-19, Nuclear Energy (Rev) 1-13, Radioactivity Rev Test, DSE Mock 2019|
 
 ## S6 Elective 
 **(青色膠裝)**  
