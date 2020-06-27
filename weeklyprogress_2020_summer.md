@@ -22,7 +22,7 @@
 
 ## S4 
 **(黃色影印本)**
-> S4 Force & Motion IA 請見 S4 1.1-4.2|
+> S4 Force & Motion IA 請見 S4 1.1-4.2
 |||
 |:-|:-|
 |1.1|Position and Movement 1-15|
