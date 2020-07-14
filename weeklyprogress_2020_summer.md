@@ -21,16 +21,16 @@
 ***
 
 **To MK:**  
-**升S3-S6 Heat I (深藍色膠裝)**
-**(綠色影印本)**
+**升 S3-S6 Heat I (深藍色膠裝)**
+**(綠色影印本)** <br>
 1.2 Temperature Heat and Internal Energy
 
-**升S6 Radioactivity (深藍色膠裝)**
-**(粉紅色影印本)**
+**升 S6 Radioactivity (深藍色膠裝)**
+**(粉紅色影印本)** <br>
 L2 Radiation and Radioactivity
 
-**升S6 Astronomy (青色膠裝)**
-**(粉紅色影印本)**
+**升 S6 Astronomy (青色膠裝)**
+**(粉紅色影印本)** <br>
 1.2 The Universe as seen in different scale, Astronomy through history
 
 ***
