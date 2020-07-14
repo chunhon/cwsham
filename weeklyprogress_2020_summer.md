@@ -1,19 +1,59 @@
 # C W Sham 2020 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**27/6/2019**
+**09/07/2020**
 > 逢星期三或四晚出
 
 **Dear all,**
 
-1. 2020-21 筆記於第一頁印有 “2020-21 EDITION” 字句。<br>
-2. 若章程與進度表不同，以進度表為準。<br>
+所有 Live 班及 Video 班，  
+暑期開始會使用 “2020-21 Edition”。  
+
+翻 loop 班仍可使用  
+“2019 Edition” 及 “2020 Edition”。  
 
 網址 <br>
 [chunhon.github.io/cwsham](chunhon.github.io/cwsham)
 
 **Thx,** <br>
 **Hon :)**
+
+***
+
+To MK:
+升S3-S6 Heat I (深藍色膠裝)
+(綠色影印本)
+1.2 Temperature Heat and Internal Energy
+
+升S6 Radioactivity (深藍色膠裝)
+(粉紅色影印本)
+L2 Radiation and Radioactivity
+
+升S6 Astronomy (青色膠裝)
+(粉紅色影印本)
+1.2 The Universe as seen in different scale, Astronomy through history
+
+***
+
+## 2020 Summer 進度表
+
+## 升S3-S6 Heat I (深藍色膠裝)
+**(綠色影印本)** <br>
+|||
+|:-|:-|
+|1.1|Temperature Heat and Internal Energy 1-15|
+
+## 升S6 Radioactivity (深藍色膠裝)
+**(粉紅色影印本)**
+|||
+|:-|:-|
+|L1|Radiation and Radioactivity 1-15|
+
+## 升S6 Astronomy (青色膠裝)
+**(粉紅色影印本)**
+|||
+|:-|:-|
+|1.1|The Universe as seen in different scale 1-15|
 
 ***
 
