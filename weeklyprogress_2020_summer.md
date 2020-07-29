@@ -1,7 +1,7 @@
 # C W Sham 2020 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**23/07/2020**
+**30/07/2020**
 > 逢星期三或四晚出
 
 **Dear all,**
@@ -29,6 +29,8 @@
 |1.1|Temperature Heat and Internal Energy 1-15|
 |1.2|16-26|
 |1.3|27-37|
+|1.4|38-41, Transfer Processes 1-10|
+|2.1|11-28|
 
 ## 升S6 Radioactivity (深藍色膠裝)
 **(粉紅色影印本)**
@@ -37,6 +39,8 @@
 |L1|Radiation and Radioactivity 1-15|
 |L2|16-29|
 |L3|30-43|
+|L4|44-47, Atomic Model 1-10|
+|L5|11-25|
 
 ## 升S6 Astronomy (青色膠裝)
 **(粉紅色影印本)**
@@ -45,6 +49,8 @@
 |1.1|The Universe as seen in different scale 1-15|
 |1.2|16-22, Astronomy through history 1-8|
 |1.3|9-19|
+|1.4|Orbital motion under gravity 1-12(half)|
+|2.1|12-24|
 
 ***
 
