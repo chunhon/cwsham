@@ -28,6 +28,18 @@
 |2020|C W Sham VIP 記錄 [link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
 <br>
 
+## VIP 記錄
+|||
+|:-|:-|
+|2020|C W Sham VIP 記錄 [link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
+<br>
+
+## C W Sham 預約跨區領取筆記 
+|||
+|:-|:-|
+|2020|C W Sham 預約跨區領取筆記 [link](https://docs.google.com/spreadsheets/d/1zP4ckVYHqiM_P2hloHd0LEdFmEg4dHynujuAuIb4UIE/edit?usp=sharing)|
+<br>
+
 ## 進度表
 |||
 |:-|:-|
