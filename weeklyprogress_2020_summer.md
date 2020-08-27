@@ -1,7 +1,7 @@
 # C W Sham 2020 Summer 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**13/08/2020**
+**27/08/2020**
 > 逢星期三或四晚出
 
 **Dear all,**
@@ -17,6 +17,24 @@
 
 **Thx,** <br>
 **Hon :)**
+
+***
+**To MK (Live 班):**
+**S4 (深藍色膠裝)**
+**(綠色影印本)**
+1.1 Position and Movement
+
+**S5 (深藍色膠裝)**
+**(黃色影印本)**
+1.1 Projectile Motion
+
+**S6 Revision (淺藍色膠裝)**
+**(粉紅色影印本)**
+1.1 Temperature Heat and Internal Energy (Rev)
+
+**S6 Elective (青色膠裝)**
+**(粉紅色影印本)**
+1.1 Rutherford’s atomic model
 
 ***
 
