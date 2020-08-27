@@ -19,21 +19,21 @@
 **Hon :)**
 
 ***
-**To MK (Live 班):**
-**S4 (深藍色膠裝)**
-**(綠色影印本)**
+**To MK (Live 班):** <br>
+**S4 (深藍色膠裝)** <br>
+**(綠色影印本)** <br>
 1.1 Position and Movement
 
-**S5 (深藍色膠裝)**
-**(黃色影印本)**
+**S5 (深藍色膠裝)** <br>
+**(黃色影印本)** <br>
 1.1 Projectile Motion
 
-**S6 Revision (淺藍色膠裝)**
-**(粉紅色影印本)**
+**S6 Revision (淺藍色膠裝)** <br>
+**(粉紅色影印本)** <br>
 1.1 Temperature Heat and Internal Energy (Rev)
 
-**S6 Elective (青色膠裝)**
-**(粉紅色影印本)**
+**S6 Elective (青色膠裝)** <br>
+**(粉紅色影印本)** <br>
 1.1 Rutherford’s atomic model
 
 ***
