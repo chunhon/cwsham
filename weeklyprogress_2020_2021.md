@@ -6,8 +6,8 @@
 
 **Dear all,**
 
-九月常規 Live 班及 Video 班  
-用 “2020-21 Edition”。  
+九月常規 Live 班及 Video 班用   
+“2020-21 Edition”。  
 
 上年度課程仍可用   
 “2019 Edition” 及 “2020 Edition”。  
