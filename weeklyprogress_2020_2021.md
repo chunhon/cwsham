@@ -65,12 +65,11 @@
 
 ***
 
-## 2019 Summer 進度表
+## 2020 Summer 進度表
 
-## S4 Heat 
+## 升S3-S6 Heat I
 **(深藍色膠裝)**  
-**(黃色影印本)**  
-> S4 Special Course 1.1-2.4 請見 2019 Summer S4 Heat 1.1-2.4。
+**(綠色影印本)**  
 
 |||
 |:-|:-|
@@ -83,9 +82,9 @@
 |2.3|15-29|
 |2.4|30-43|
 
-## S5 Radioactivity 
+## 升S6 Radioactivity 
 **(深藍色膠裝)**  
-**(黃色影印本)**  
+**(粉紅色影印本)**  
 
 |||
 |:-|:-|
@@ -94,6 +93,6 @@
 |L3|30-43|
 |L4|44-47, Atomic Model 1-10|
 |L5|11-25|
-|L6|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2019|
+|L6|Nuclear Energy 1-16, Radioactivity Rev Test, DSE Mock 2020|
 
 ***
