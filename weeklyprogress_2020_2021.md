@@ -22,8 +22,8 @@
 **(粉紅色影印本)**\
 1.3 Change of State (Rev) 12-34, General Gas Law (Rev) 1-8  
   
-**S6 Elective (青色膠裝)**\  
-**(粉紅色影印本)**\ 
+**S6 Elective (青色膠裝)**\
+**(粉紅色影印本)**\
 1.3 Photoelectric effect 12-22  
 
 ***
