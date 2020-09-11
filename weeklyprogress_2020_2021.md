@@ -1,19 +1,29 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**05/09/2020**
+**12/09/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-九月常規 Live 班及 Video 班用   
-“2020-21 Edition”。  
-
-上年度課程仍可用   
-“2019 Edition” 及 “2020 Edition”。  
+1) 九月常規課程用 “2020-21 Edition”。  
+上年度課程仍可用 “2019 Edition” 及 “2020 Edition”。  
+  
+2) 請將所有暑期筆記 send 回 MK。  
 
 **Thx,**  
 **Hon :)**   
+
+***
+
+To MK (Live):  
+S6 Revision (淺藍色膠裝)  
+(粉紅色影印本)  
+1.3 Change of State (Rev) 12-34, General Gas Law (Rev) 1-8  
+  
+S6 Elective (青色膠裝)  
+(粉紅色影印本)  
+1.3 Photoelectric effect 12-22  
 
 ***
 
