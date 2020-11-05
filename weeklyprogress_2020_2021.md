@@ -1,7 +1,7 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**31/10/2020**
+**07/11/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -18,19 +18,19 @@
 <br>
 **S4 (深藍色膠裝)**\
 **(綠色影印本)**\
-3.2 Newton’s Laws 45-54
+3.3 Newton’s Laws 55-66
 
 **S5 (深藍色膠裝)**\
 **(黃色影印本)**\
-3.2 General Gas Law 18-31
+3.3 Kinetic Theory 1-10
 
 **S6 Revision (淺藍色膠裝)**\
 **(粉紅色影印本)**\
-3.2 Momentum (Rev) 1-36
+3.3 Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-5
   
 **S6 Elective (青色膠裝)**\
 **(粉紅色影印本)**\
-3.2 Electricity at home 12-21
+3.3 Electricity at home 22-31
 
 ***
 
@@ -51,6 +51,7 @@
 |2.3|7-22|
 |2.4|23-33|
 |3.1|34-44|
+|3.2|45-54|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -67,7 +68,7 @@
 |2.3|Gravitation 1-13|
 |2.4|14-23, Force & Motion Rev Test, DSE Mock 2017|
 |3.1|General Gas Law 1-17|
-
+|3.2|18-31|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -84,6 +85,7 @@
 |2.3|21-48|
 |2.4|49-67, Moment of Force (Rev) 1-12, DSE Mock 2015|
 |3.1|Work Energy and Power (Rev) 1-38|
+|3.2|Momentum (Rev) 1-36|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -100,6 +102,7 @@
 |2.3|8-12, Probing into nano scales 1-9|
 |2.4|10-27, Atomic World Rev Test|
 |3.1|Electricity at home 1-11|
+|3.2|12-21|
 
 ***
 
