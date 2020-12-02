@@ -1,7 +1,7 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**20/11/2020**
+**05/12/2020**
 > 逢星期五或六晚出
 
 **Dear all,**
@@ -18,19 +18,19 @@
 <br>
 **S4 (深藍色膠裝)**\
 **(綠色影印本)**\
-4.1 Newton’s Laws 78-80, Moment of Force 1-7
+4.4 (網上補課)
 
 **S5 (深藍色膠裝)**\
 **(黃色影印本)**\
-4.1 Electrostatics 1-15
+4.4 (網上補課)
 
 **S6 Revision (淺藍色膠裝)**\
 **(粉紅色影印本)**\
-4.1 Electrostatics (Rev) 1-26
+4.4 Electric Circuits (Rev) 32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015
   
 **S6 Elective (青色膠裝)**\
 **(粉紅色影印本)**\
-4.1 Energy efficiency in building 9-16, Energy efficiency in transportation 1-5
+4.4 Renewable energy sources 7-24, Energy & Use of Energy Rev Test
 
 ***
 
@@ -54,6 +54,10 @@
 |3.2|45-54|
 |3.3|55-66|
 |3.4|67-77|
+|4.1|78-80, Moment of Force 1-7|
+|4.2|8-17|
+|4.3|Work Energy and Power 1-14|
+|4.4|15-23|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -73,6 +77,10 @@
 |3.2|18-31|
 |3.3|Kinetic Theory 1-10|
 |3.4|11-25, Heat & Gases Rev Test, DSE Mock 2018|
+|4.1|Electrostatics 1-15|
+|4.2|16-32|
+|4.3|33-42|
+|4.4|43-52|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -92,6 +100,9 @@
 |3.2|Momentum (Rev) 1-36|
 |3.3|Projectile Motion (Rev) 1-25, Circular Motion (Rev) 1-5|
 |3.4|6-21, Gravitation (Rev) 1-17, Force & Motion Rev Test, DSE Mock 2016|
+|4.1|Electrostatics (Rev) 1-26|
+|4.2|27-40, Electric Circuits (Rev) 1-9|
+|4.3|10-31|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -111,6 +122,9 @@
 |3.2|12-21|
 |3.3|22-31|
 |3.4|32-36, Energy efficiency in building 1-8|
+|4.1|9-16, Energy efficiency in transportation 1-5|
+|4.2|6-18, Non renewable energy sources 1-11|
+|4.3|12-22, Renewable energy sources 1-6|
 
 ***
 
