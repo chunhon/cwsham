@@ -26,19 +26,19 @@
 ## VIP 記錄
 |||
 |:-|:-|
-|2020|VIP 記錄 [link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
+|2021|VIP 記錄 [link](https://drive.google.com/open?id=1cUeKJGwWhwnKVhdNn-bjljSBAgTC-Af7fZpF90-q0wE)|
 <br>
 
 ## 預約跨區領取筆記 
 |||
 |:-|:-|
-|2020|預約跨區領取筆記 [link](https://docs.google.com/spreadsheets/d/1zP4ckVYHqiM_P2hloHd0LEdFmEg4dHynujuAuIb4UIE/edit?usp=sharing)|
+|2021|預約跨區領取筆記 [link](https://docs.google.com/spreadsheets/d/1zP4ckVYHqiM_P2hloHd0LEdFmEg4dHynujuAuIb4UIE/edit?usp=sharing)|
 <br>
 
 ## 進度表
 |||
 |:-|:-|
-|2020|C W Sham 2020-2021 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2020_2021.md)|
+|2021|C W Sham 2020-2021 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2020_2021.md)|
 |13-08-2020|C W Sham 2020 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2020_summer.md)|
 |02-05-2020|C W Sham 2019-2020 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_2020.md)|
 |29-08-2019|C W Sham 2019 Summer 進度表 [link](https://github.com/chunhon/cwsham/blob/master/weeklyprogress_2019_summer.md)|
