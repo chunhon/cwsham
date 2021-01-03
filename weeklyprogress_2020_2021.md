@@ -1,13 +1,12 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**05/12/2020**
+**03/01/2021**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-九月常規課程用 “2020-21 Edition”。  
-上年度課程仍可用 “2019 Edition” 及 “2020 Edition”。  
+更新至 10/1。    
 
 **Thx,**  
 **Hon :)**   
@@ -18,19 +17,19 @@
 <br>
 **S4 (深藍色膠裝)**\
 **(綠色影印本)**\
-4.4 (網上補課)
+5.3 (網上補課)
 
 **S5 (深藍色膠裝)**\
 **(黃色影印本)**\
-4.4 (網上補課)
+5.3 (網上補課)
 
 **S6 Revision (淺藍色膠裝)**\
 **(粉紅色影印本)**\
-4.4 Electric Circuits (Rev) 32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2015
-  
+5.3 (網上補課)
+
 **S6 Elective (青色膠裝)**\
 **(粉紅色影印本)**\
-4.4 Renewable energy sources 7-24, Energy & Use of Energy Rev Test
+5.3 (網上補課)
 
 ***
 
@@ -58,6 +57,9 @@
 |4.2|8-17|
 |4.3|Work Energy and Power 1-14|
 |4.4|15-23|
+|5.1|24-33|
+|5.2|34-44|
+|5.3|45-56|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -81,6 +83,9 @@
 |4.2|16-32|
 |4.3|33-42|
 |4.4|43-52|
+|5.1|Electric Circuits 1-11|
+|5.2|12-21|
+|5.3|22-33|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -103,6 +108,10 @@
 |4.1|Electrostatics (Rev) 1-26|
 |4.2|27-40, Electric Circuits (Rev) 1-9|
 |4.3|10-31|
+|4.4|32-49, Domestic Electricity (Rev) 1-7, DSE Mock 2017|
+|5.1|8-26, Magnetic Field (Rev) 1-7|
+|5.2|8-31|
+|5.3|32-37, Electromagnetic Induction (Rev) 1-23|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -125,6 +134,10 @@
 |4.1|9-16, Energy efficiency in transportation 1-5|
 |4.2|6-18, Non renewable energy sources 1-11|
 |4.3|12-22, Renewable energy sources 1-6|
+|4.4|7-24, Energy & Use of Energy Rev Test|
+|5.1|Making sense of the eye 1-12|
+|5.2|13-23|
+|5.3|Making sense of the ear 1-14|
 
 ***
 
