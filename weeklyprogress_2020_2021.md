@@ -1,35 +1,17 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**03/01/2021**
+**08/01/2021**
 > 逢星期五或六晚出
 
 **Dear all,**
 
-更新至 10/1。    
+更新至 16/2。
+S4 S5 期數為 7.1。
+S6 Revision S6 Elective 期數為 6.4。    
 
 **Thx,**  
 **Hon :)**   
-
-***
-
-**To MK (Live):**\
-<br>
-**S4 (深藍色膠裝)**\
-**(綠色影印本)**\
-5.3 (網上補課)
-
-**S5 (深藍色膠裝)**\
-**(黃色影印本)**\
-5.3 (網上補課)
-
-**S6 Revision (淺藍色膠裝)**\
-**(粉紅色影印本)**\
-5.3 (網上補課)
-
-**S6 Elective (青色膠裝)**\
-**(粉紅色影印本)**\
-5.3 (網上補課)
 
 ***
 
@@ -60,6 +42,12 @@
 |5.1|24-33|
 |5.2|34-44|
 |5.3|45-56|
+|5.4|Momentum 1-10|
+|6.1|11-20|
+|6.2|21-30|
+|6.3|31-39|
+|6.4|40-51|
+|7.1|Wave Propagation 1-13|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -86,6 +74,12 @@
 |5.1|Electric Circuits 1-11|
 |5.2|12-21|
 |5.3|22-33|
+|5.4|34-43|
+|6.1|44-54|
+|6.2|55-67|
+|6.3|68-79|
+|6.4|Domestic Electricity 1-10|
+|7.1|11-22|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -112,6 +106,11 @@
 |5.1|8-26, Magnetic Field (Rev) 1-7|
 |5.2|8-31|
 |5.3|32-37, Electromagnetic Induction (Rev) 1-23|
+|5.4|24-43, Alternating Current (Rev) 1-21, E&M Rev Test, DSE Mock 2018|
+|6.1|Wave Propagation (Rev) 1-21, Wave Phenomena (Rev) 1-6|
+|6.2|7-32|
+|6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
+|6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2019|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -138,6 +137,11 @@
 |5.1|Making sense of the eye 1-12|
 |5.2|13-23|
 |5.3|Making sense of the ear 1-14|
+|5.4|Medical imaging using non-ionizing radiation 1-14|
+|6.1|15-25|
+|6.2|26-30, Medical imaging using ionizing radiation 1-8|
+|6.3|9-21|
+|6.4|22-33, Medical Physics Rev Test|
 
 ***
 
