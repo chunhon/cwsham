@@ -6,8 +6,8 @@
 
 **Dear all,**
 
-更新至 16/2。
-S4 S5 期數為 7.1。
+更新至 16/2。  
+S4 S5 期數為 7.1。  
 S6 Revision S6 Elective 期數為 6.4。    
 
 **Thx,**  
