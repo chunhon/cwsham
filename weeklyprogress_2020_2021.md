@@ -1,14 +1,12 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**08/01/2021**
-> 逢星期五或六晚出
+**08/02/2021**
 
 **Dear all,**
 
-更新至 16/2。  
-S4 S5 期數為 7.1。  
-S6 Revision S6 Elective 期數為 6.4。    
+1. 更新至 7.4。  
+2. 今年 S6 7.2 不派 Mock。   
 
 **Thx,**  
 **Hon :)**   
@@ -48,6 +46,9 @@ S6 Revision S6 Elective 期數為 6.4。
 |6.3|31-39|
 |6.4|40-51|
 |7.1|Wave Propagation 1-13|
+|7.2|14-22|
+|7.3|23-26, Wave Phenomena 1-10|
+|7.4|11-24|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -80,6 +81,9 @@ S6 Revision S6 Elective 期數為 6.4。
 |6.3|68-79|
 |6.4|Domestic Electricity 1-10|
 |7.1|11-22|
+|7.2|23-34, DSE Mock 2019|
+|7.3|Magnetic Field 1-13|
+|7.4|14-26|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
@@ -111,6 +115,10 @@ S6 Revision S6 Elective 期數為 6.4。
 |6.2|7-32|
 |6.3|33-39, Reflection and Refraction of Light (Rev) 1-21|
 |6.4|22-30, Lenses (Rev) 1-18, DSE Mock 2019|
+|7.1|19-36, Wave Nature of Light (Rev) 1-19|
+|7.2|20-31, Sound (Rev) 1-24, Wave Motion Rev Test|
+|7.3|Radiation and Radioactivity (Rev) 1-32|
+|7.4|33-36, Atomic Model (Rev) 1-19, Nuclear Energy (Rev) 1-13, Radioactivity Rev Test, DSE Mock 2020|
 
 ## S6 Elective 
 **(青色膠裝)**  
@@ -142,25 +150,6 @@ S6 Revision S6 Elective 期數為 6.4。
 |6.2|26-30, Medical imaging using ionizing radiation 1-8|
 |6.3|9-21|
 |6.4|22-33, Medical Physics Rev Test|
-
-***
-
-## 2020 Summer 進度表
-
-## 升S3-S6 Heat I
-**(深藍色膠裝)**  
-**(綠色影印本)**  
-
-|||
-|:-|:-|
-|1.1|Temperature Heat and Internal Energy 1-15|
-|1.2|16-26|
-|1.3|27-37|
-|1.4|38-41, Transfer Processes 1-10|
-|2.1|11-28|
-|2.2|Change of State 1-14|
-|2.3|15-29|
-|2.4|30-43|
 
 ***
 
