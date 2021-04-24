@@ -1,11 +1,11 @@
 # C W Sham 2020-2021 進度表 
 ![CI status](https://img.shields.io/badge/CWSHAM%20-Physics-00b2b4.svg)
 
-**27/03/2021**
+**27/04/2021**
 
 **Dear all,**
 
-1. 更新至 9.4  
+1. 更新至 10.4  
 2. BClass 有新書時，請用新書  
 
 **Thx,**  
@@ -57,6 +57,10 @@
 |9.2|40-42, Lenses 1-14|
 |9.3|15-30|
 |9.4|31-45|
+|10.1|Wave Nature of Light 1-17|
+|10.2|18-32|
+|10.3|33-37, Sound 1-13|
+|10.4|14-30, Wave Motion Rev Test|
 
 ## S5 
 **(深藍色膠裝)**  
@@ -100,6 +104,10 @@
 |9.2|16-26(half)|
 |9.3|26-35|
 |9.4|36-46|
+|10.1|47-56|
+|10.2|57-62, Alternating Current 1-8|
+|10.3|9-20|
+|10.4|21-31, E&M Rev Test, DSE Mock 2020|
 
 ## S6 Revision 
 **(淺藍色膠裝)**  
