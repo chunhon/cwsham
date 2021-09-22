@@ -9,13 +9,13 @@
 * 除 Heat I，Radioactivity，Astronomy 使用 “2021-22 Edition”，其餘重溫班使用 “2020-21 Edition”
 * YL TM SS ST 請所有舊書每款保留兩本，其餘全數 send MK Lun 或 Yvonne
 * TW3 EM Metro 請保留所有舊書
-* 請到官網參考 “2021 Summer 進度表”
+* 請參考 “2021 Summer 進度表”
 
 S4 Special
-* 請到官網參考 “2021 Summer 進度表”
+* 請參考 “2021 Summer 進度表”
 
 S6 Special
-* 請到官網參考 “2021 Summer 進度表”
+* 請參考 “2021 Summer 進度表”
 
 
 **Thx,**  
